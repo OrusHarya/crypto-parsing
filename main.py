@@ -22,11 +22,8 @@ async def main():
 
 
 
-
+# Супееррррррррр
                 print(title, price.text)
-
-
-
 
 
 
